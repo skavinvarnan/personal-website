@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+name: 'Kavin Varnan'
+subtitle: 'I architect mobile ecosystem.'
 contactText: 'Get In Touch'
 ---
 
-I'm a web developer based in Boston, MA specializing in building (and occasionally designing) exceptional, high-quality websites and applications. Currently working at [Upstatement](https://www.upstatement.com/) as an Engineer.
+I'm a mobile, backend NodeJS developer based in Bangalore, specialized in architecting mobile apps and it's backend servers. Currently working at [Invaria](https://www.invariatech.com/) as a Technical Lead.

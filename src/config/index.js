@@ -1,17 +1,15 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Web Developer',
+  siteTitle: 'Kavin Varnan | Web Developer',
   siteDescription:
     'Brittany Chiang is a web developer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
   siteKeywords:
     'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
-  siteLanguage: 'en_US',
+  siteUrl: 'https://skvarnan.com',
+  siteLanguage: 'en_IN',
 
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-
-  name: 'Brittany Chiang',
+  name: 'Kavin Varnan',
   location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
+  email: 'skavinvarnan@gmail.com',
   socialMedia: [
     {
       name: 'Github',
@@ -43,10 +41,6 @@ module.exports = {
     {
       name: 'Experience',
       url: '#jobs',
-    },
-    {
-      name: 'Work',
-      url: '#projects',
     },
     {
       name: 'Contact',

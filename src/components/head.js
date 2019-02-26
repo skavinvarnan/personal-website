@@ -28,7 +28,6 @@ const Head = ({ metadata }) => (
     <link rel="shortcut icon" href={favicon} />
     <meta name="description" content={metadata.description} />
     <meta name="keywords" content={config.siteKeywords} />
-    <meta name="google-site-verification" content={config.googleVerification} />
     <meta property="og:title" content={metadata.title} />
     <meta property="og:description" content={metadata.description} />
     <meta property="og:type" content="website" />
