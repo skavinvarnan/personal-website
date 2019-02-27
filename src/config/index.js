@@ -1,35 +1,27 @@
 module.exports = {
-  siteTitle: 'Kavin Varnan | Web Developer',
+  siteTitle: 'Kavin Varnan | Lead Full Stack Developer',
   siteDescription:
-    'Brittany Chiang is a web developer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    'Kavin Varnan is a Lead Full Stack Developer based in Bangalore, My specialization is to architect high quality mobile and web apps, along with an extremely scalable backend server.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
+    'Kavin Varnan, Kavin, Varnan, skvarnan, software engineer, technical lead, backend engineer, android developer, nodejs, bangalore',
   siteUrl: 'https://skvarnan.com',
   siteLanguage: 'en_IN',
 
   name: 'Kavin Varnan',
-  location: 'Boston, MA',
+  location: 'Bangalore, IN',
   email: 'skavinvarnan@gmail.com',
   socialMedia: [
     {
       name: 'Github',
-      url: 'https://github.com/bchiang7/',
+      url: 'https://github.com/skavinvarnan',
+    },
+    {
+      name: 'Stackoverflow',
+      url: 'https://stackoverflow.com/users/1452884/kavin-varnan',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7/',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7/',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7/',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://www.linkedin.com/in/kavin-varnan-08083229/',
     },
   ],
 
@@ -48,8 +40,9 @@ module.exports = {
     },
   ],
 
-  twitterHandle: '@bchiang7',
-  googleAnalyticsID: 'UA-45666519-2',
+  twitterHandle: '@skvarnan',
+  hjid: 1215748,
+  hjsv: 6,
 
   headerHeight: 100,
 

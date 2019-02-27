@@ -8,6 +8,7 @@ import IconTwitter from './twitter';
 import IconExternal from './external';
 import IconFolder from './folder';
 import IconLocation from './location';
+import IconStackoverflow from './stackoverflow';
 
 export {
   IconLoader,
@@ -20,4 +21,5 @@ export {
   IconExternal,
   IconFolder,
   IconLocation,
+  IconStackoverflow,
 };

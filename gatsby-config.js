@@ -16,8 +16,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'brittany-chiang-v4',
-        short_name: 'v4',
+        name: 'skavinvarnan',
+        short_name: 'skvarnan',
         start_url: '/',
         background_color: config.darkNavyColor,
         theme_color: config.navyColor,
@@ -56,9 +56,10 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-hotjar`,
       options: {
-        trackingId: config.googleAnalyticsID,
+        id: config.hjid,
+        sv: config.hjsv,
       },
     },
   ],
