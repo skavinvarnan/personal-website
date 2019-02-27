@@ -1,7 +1,7 @@
 ---
 title: 'Hi, my name is'
 name: 'Kavin Varnan'
-subtitle: I'm a Lead Full Stack developer.
+subtitle: Technical Lead - Full Stack.
 contactText: 'Get In Touch'
 ---
 

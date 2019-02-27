@@ -1,7 +1,7 @@
 module.exports = {
-  siteTitle: 'Kavin Varnan | Lead Full Stack Developer',
+  siteTitle: 'Kavin Varnan | Technical Lead - Full Stack',
   siteDescription:
-    'Kavin Varnan is a Lead Full Stack Developer based in Bangalore, My specialization is to architect high quality mobile and web apps, along with an extremely scalable backend server.',
+    'Kavin Varnan is a Technical Lead - Full Stack, based out of Bangalore, My specialization is to architect high quality mobile and web apps, along with an extremely scalable backend server.',
   siteKeywords:
     'Kavin Varnan, Kavin, Varnan, skvarnan, software engineer, technical lead, backend engineer, android developer, nodejs, bangalore',
   siteUrl: 'https://skvarnan.com',
