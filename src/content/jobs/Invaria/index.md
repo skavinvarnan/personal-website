@@ -12,4 +12,4 @@ url: 'https://www.invariatech.com/'
 - Work closely with the Analytics team to deliver accurate real-time analytics for Android through the backend server
 - Worked on the architecture of Android and its BLE layer to interact with IOT devices
 - Worked with various languages, platforms and frameworks such as JavaScript, Kotlin, Swift, Google PubSub, Docker, Kubernetes and GCP
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Communicate with multi-disciplinary teams of engineers, designers, and clients on a daily basis
