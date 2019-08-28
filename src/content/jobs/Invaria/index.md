@@ -3,7 +3,7 @@ date: '2019-03-14'
 title: 'Technical Lead'
 company: 'Invaria Tech'
 location: 'Bangalore, India'
-range: 'May 2016 - Present'
+range: 'May 2016 - April 2019'
 url: 'https://www.invariatech.com/'
 ---
 
